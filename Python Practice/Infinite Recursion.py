@@ -1,0 +1,3 @@
+def infiniteRecur():
+    infiniteRecur()
+infiniteRecur()
